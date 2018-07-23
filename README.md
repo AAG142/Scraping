@@ -10,7 +10,10 @@ The file Quora_Scraping.py scraping all the question on the given topic and its 
 Requirements:
 
 requests==2.19.0
+
 selenium==3.12.0
+
 beautifulsoup4==4.6.0
+
 
 and i am using Python 3.6
